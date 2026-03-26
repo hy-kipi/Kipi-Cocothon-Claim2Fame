@@ -7,7 +7,7 @@ This document contains **200+ prompts** used to build a full-featured **Claims I
 - Plotly
 - Snowpark
 
-These prompts are designed so that **anyone can rebuild the app end-to-end using AI (Cortex / GPT)**.
+These prompts are designed so that **anyone can rebuild the app end-to-end using AI (Cortex)**.
 
 ---
 
@@ -253,7 +253,7 @@ These prompts are designed so that **anyone can rebuild the app end-to-end using
 
 ## ✅ HOW TO USE
 
-1. Copy prompts into Cortex / GPT
+1. Copy prompts into Cortex
 2. Execute step by step
 3. Validate output after each stage
 4. Combine all generated code

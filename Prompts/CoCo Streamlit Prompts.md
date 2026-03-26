@@ -1,6 +1,6 @@
 # 🚀 Streamlit + Snowflake Cortex Dashboard Prompt Library
 
-This document contains **200+ prompts** used to build a full-featured **Claims Intelligence Dashboard** using:
+This file contains almost all the prompts used to build a full-featured **Claims Intelligence Dashboard** using:
 
 - Streamlit
 - Snowflake Cortex

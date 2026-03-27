@@ -63,23 +63,26 @@ The Streamlit app is the core of this project and provides:
 
 ## 📂 Project Structure
 
+```text
+Kipi-Cocothon-Claim2Fame/
+│
 ├── CoCo Prompts/
-│ ├── 1. Table Generation.md
-│ ├── 2. Data Pipelines.md
-│ ├── 3. Star schema Model.md
-│ ├── 4. Semantic Layer.md
-│ └── 5. Streamlit Prompts.md
+│   ├── 1. Table Generation.md
+│   ├── 2. Data Pipelines.md
+│   ├── 3. Star schema Model.md
+│   ├── 4. Semantic Layer.md
+│   └── 5. Streamlit Prompts.md
 │
 ├── Python Notebooks/
-│ ├── Table Generation Notebook.ipynb
-│ ├── Consumption Layer.ipynb
-│ └── Semantic View.ipynb
+│   ├── Table Generation Notebook.ipynb
+│   ├── Consumption Layer.ipynb
+│   └── Semantic View.ipynb
 │
 ├── Streamlit_App_Chatbot.py
 ├── README.md
 ├── Discovery_Notes.md
-├── Customer_Profile.md
-
+└── Customer_Profile.md
+```
 
 ---
 
@@ -101,26 +104,26 @@ This project heavily leverages **Snowflake CoCo (Cortex + Copilot)** for:
 ## 🔗 Important Links
 
 ### 📄 Documentation
-- 📘 Summary Document: [Add Link Here]
-- 🎤 Initial Pitch Deck: [Add Link Here]
-- 🏁 Final Pitch Deck: [Add Link Here]
+- 📘 Summary Document: https://docs.google.com/document/d/1jPdKdOuNVEHmKiMnYsjgtv6f41R2QB8KQJd6wijIwqQ/edit?usp=drive_link
+- 🎤 Initial Pitch Demo: https://drive.google.com/file/d/1SbFwgHYbe8az6-ibt1cx9Qtu69cHE-E1/view?usp=drive_link
+- 🏁 Final Pitch Demo: https://drive.google.com/file/d/1bCZwc8tbVQVOTHX70iyktCfyjaySVWgh/view?usp=drive_link
 
 ### 💻 Code
-- 💡 Streamlit App Code: [Add GitHub File Link]
-- 🧾 SQL Script 1 (Table Generation): [Add Link]
-- 🧾 SQL Script 2 (Pipelines): [Add Link]
-- 🧾 SQL Script 3 (Semantic Layer): [Add Link]
+- 💡 Streamlit App Code: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/Streamlit_App_Chatbot.py
+- 🧾 SQL Script 1 (Table Generation): https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/Python%20Notebooks/1.%20Table%20Generation%20Notebook.ipynb
+- 🧾 SQL Script 2 (Pipelines): https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/Python%20Notebooks/2.%20Consumption%20Layer.ipynb
+- 🧾 SQL Script 3 (Semantic Layer): https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/Python%20Notebooks/3.%20Semantic%20View.ipynb
 
 ### 🤖 Prompts (Core of CoCo)
-- ✍️ All Prompts Folder: [Add Folder Link]
-- 1. Table Generation Prompts: [Add Link]
-- 2. Data Pipeline Prompts: [Add Link]
-- 3. Star Schema Prompts: [Add Link]
-- 4. Semantic Layer Prompts: [Add Link]
-- 5. Streamlit Prompts: [Add Link]
+- ✍️ All Prompts Folder: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/tree/main/CoCo%20Prompts
+- 1. Table Generation Prompts: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/CoCo%20Prompts/1.%20Table%20Generation.md
+- 2. Data Pipeline Prompts: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/CoCo%20Prompts/2.%20Data%20Pipelines.md
+- 3. Star Schema Prompts: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/CoCo%20Prompts/3.%20Star%20schema%20Model.md
+- 4. Semantic Layer Prompts: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/CoCo%20Prompts/4.%20Semantic%20Layer.md
+- 5. Streamlit Prompts: https://github.com/hy-kipi/Kipi-Cocothon-Claim2Fame/blob/main/CoCo%20Prompts/5.%20Streamlit%20Prompts.md
 
-### 🎥 Demo
-- 📽️ App Demo Video: [Add Link Here]
+### 🎥 Streamlit Demo
+- 📽️ App Demo Video: https://drive.google.com/file/d/1wCHTg-e_QbUNUSHEjicuz4BOABeQLUf7/view?usp=drive_link
 
 ---
 
@@ -159,5 +162,8 @@ This project demonstrates how **Snowflake CoCo can drastically accelerate develo
 
 Built with passion during Hackathon 🚀  
 **Team: Claim2Fame**
+BA - Priyata Solanki
+SA - Santhosh Rapolu
+SC - Harshith Yechuri
 
 ---
